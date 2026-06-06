@@ -31,7 +31,8 @@ camera-market-analysis/
 │   └── 01_scraping.ipynb    # EDA та аналіз
 ├── data/
 │   └── cameras_ukraine.csv  # Датасет (400 записів)
-├── eda_overview.png         # Графіки
+├── images/
+│   └── eda_overview.png     # Графіки
 └── report.txt               # Звіт
 ```
 ## 👤 Автор
