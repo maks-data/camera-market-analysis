@@ -1,0 +1,401 @@
+brand,price_uah,megapixels,type,source,in_stock
+Hikvision,5288,8,Куля (Bullet),Prom.ua,False
+Reolink,2113,4,Куля (Bullet),Control.ua,True
+Ajax,7829,8,PTZ,Rozetka,True
+Dahua,2902,5,Куля (Bullet),Epicentr,True
+Hikvision,4169,4,Fisheye,Prom.ua,False
+Hikvision,3651,2,Куля (Bullet),Epicentr,True
+Hikvision,3910,2,Куля (Bullet),Rozetka,True
+Uniview,3417,4,Купол (Dome),Epicentr,True
+Dahua,2414,4,Купол (Dome),Epicentr,True
+Ajax,10580,2,Купол (Dome),Rozetka,True
+Hikvision,2653,2,Купол (Dome),Control.ua,True
+Reolink,1335,5,Купол (Dome),Epicentr,True
+Uniview,3907,8,Куля (Bullet),Epicentr,True
+Hikvision,4702,4,Fisheye,Control.ua,False
+Hikvision,4511,2,Fisheye,Epicentr,False
+Hikvision,4516,2,Купол (Dome),Epicentr,True
+Hikvision,3786,2,Куля (Bullet),Epicentr,True
+Dahua,2338,8,Купол (Dome),Hotline,True
+Dahua,3272,2,Куля (Bullet),Control.ua,True
+Hikvision,3028,4,Куля (Bullet),Epicentr,True
+Dahua,4136,2,Куля (Bullet),Control.ua,True
+Hikvision,3632,4,Купол (Dome),Prom.ua,True
+Hikvision,2858,5,PTZ,Prom.ua,True
+Hikvision,3433,5,Купол (Dome),Epicentr,True
+Dahua,3596,2,Купол (Dome),Control.ua,True
+Uniview,2409,2,Куля (Bullet),Control.ua,True
+Hikvision,2862,2,Куля (Bullet),Control.ua,True
+Dahua,3433,8,Куля (Bullet),Hotline,True
+Dahua,3435,8,Fisheye,Prom.ua,True
+Hikvision,3222,4,Куля (Bullet),Control.ua,True
+Dahua,2747,4,PTZ,Control.ua,True
+Hikvision,4064,5,Купол (Dome),Hotline,True
+Hikvision,2149,2,Куля (Bullet),Hotline,True
+Imou,1039,8,Купол (Dome),Control.ua,False
+Reolink,1647,4,Купол (Dome),Rozetka,False
+Uniview,2714,4,PTZ,Control.ua,False
+Hikvision,4154,4,PTZ,Control.ua,True
+Hikvision,5481,2,Куля (Bullet),Hotline,True
+Ajax,8172,2,Куля (Bullet),Hotline,False
+Dahua,3046,5,Купол (Dome),Control.ua,True
+Hikvision,3778,2,PTZ,Control.ua,True
+Dahua,2237,4,Куля (Bullet),Control.ua,True
+Hikvision,3778,2,Купол (Dome),Hotline,True
+Imou,1644,4,Купол (Dome),Control.ua,False
+Hikvision,4167,2,Купол (Dome),Control.ua,True
+Ajax,4886,4,Куля (Bullet),Epicentr,True
+Hikvision,4392,5,Купол (Dome),Rozetka,True
+Dahua,4671,2,PTZ,Prom.ua,True
+Dahua,3095,4,Куля (Bullet),Rozetka,False
+Hikvision,4257,4,Куля (Bullet),Epicentr,True
+Reolink,2534,5,Fisheye,Prom.ua,True
+Ajax,5717,8,Куля (Bullet),Control.ua,False
+Imou,1921,5,PTZ,Epicentr,True
+Imou,1806,2,Купол (Dome),Control.ua,True
+Dahua,3293,2,Куля (Bullet),Hotline,True
+Imou,1382,2,PTZ,Epicentr,True
+Hikvision,3827,4,Куля (Bullet),Hotline,True
+Hikvision,4367,2,Купол (Dome),Epicentr,True
+Hikvision,5454,4,Куля (Bullet),Epicentr,True
+Hikvision,4893,4,Купол (Dome),Hotline,True
+Dahua,5267,2,Куля (Bullet),Prom.ua,False
+Hikvision,2925,5,Куля (Bullet),Rozetka,True
+Uniview,3658,2,Fisheye,Control.ua,True
+Hikvision,4009,2,Куля (Bullet),Epicentr,True
+Hikvision,6296,5,Купол (Dome),Control.ua,True
+Dahua,2424,4,Куля (Bullet),Hotline,True
+Hikvision,2842,5,Купол (Dome),Control.ua,False
+Uniview,2378,4,Куля (Bullet),Hotline,False
+Hikvision,1378,2,Fisheye,Control.ua,True
+Reolink,1768,5,Купол (Dome),Rozetka,False
+Ajax,5019,5,Куля (Bullet),Rozetka,True
+Hikvision,3971,5,Куля (Bullet),Rozetka,True
+Hikvision,4189,2,Куля (Bullet),Rozetka,True
+Uniview,4532,4,Купол (Dome),Rozetka,False
+Ajax,8353,4,Куля (Bullet),Rozetka,True
+Ajax,5375,2,PTZ,Hotline,True
+Ajax,4748,8,Куля (Bullet),Epicentr,True
+Hikvision,4360,2,Куля (Bullet),Control.ua,True
+Hikvision,2294,8,Купол (Dome),Rozetka,True
+Hikvision,5887,4,Купол (Dome),Hotline,False
+Uniview,3926,2,Куля (Bullet),Hotline,True
+Dahua,2749,4,Куля (Bullet),Hotline,True
+Hikvision,1847,8,Куля (Bullet),Epicentr,False
+Hikvision,5343,5,Купол (Dome),Control.ua,True
+Hikvision,3669,5,Купол (Dome),Epicentr,False
+Hikvision,5211,5,Купол (Dome),Prom.ua,True
+Ajax,3390,5,PTZ,Hotline,True
+Dahua,2624,5,PTZ,Prom.ua,True
+Imou,1802,2,Купол (Dome),Rozetka,False
+Dahua,3245,4,PTZ,Rozetka,True
+Hikvision,3286,2,Куля (Bullet),Epicentr,True
+Ajax,7714,8,Куля (Bullet),Control.ua,True
+Ajax,4418,8,Куля (Bullet),Prom.ua,True
+Dahua,3063,2,Куля (Bullet),Control.ua,True
+Ajax,6734,5,Купол (Dome),Epicentr,True
+Dahua,3693,8,Fisheye,Rozetka,False
+Dahua,3883,2,Куля (Bullet),Control.ua,True
+Dahua,2120,4,Куля (Bullet),Control.ua,True
+Hikvision,2051,8,Купол (Dome),Rozetka,True
+Hikvision,5256,2,Fisheye,Prom.ua,False
+Hikvision,4178,5,Куля (Bullet),Rozetka,True
+Dahua,2481,2,Купол (Dome),Control.ua,True
+Hikvision,5568,8,Куля (Bullet),Prom.ua,True
+Dahua,3311,8,Куля (Bullet),Prom.ua,True
+Imou,2436,8,Fisheye,Rozetka,True
+Hikvision,3876,4,Fisheye,Control.ua,False
+Dahua,5178,8,Куля (Bullet),Epicentr,True
+Ajax,9922,5,Fisheye,Control.ua,True
+Hikvision,3516,2,Купол (Dome),Hotline,True
+Hikvision,4907,5,PTZ,Epicentr,False
+Hikvision,4535,2,Купол (Dome),Prom.ua,True
+Hikvision,5360,4,Купол (Dome),Epicentr,True
+Imou,1278,2,Купол (Dome),Prom.ua,True
+Uniview,3496,2,Купол (Dome),Prom.ua,False
+Dahua,4216,2,Куля (Bullet),Epicentr,True
+Uniview,1369,5,Куля (Bullet),Prom.ua,True
+Uniview,1870,2,Куля (Bullet),Prom.ua,True
+Hikvision,1475,5,Купол (Dome),Hotline,True
+Imou,1654,2,Куля (Bullet),Control.ua,True
+Dahua,3888,2,Купол (Dome),Control.ua,True
+Uniview,4207,4,Fisheye,Hotline,True
+Imou,1840,5,Куля (Bullet),Epicentr,True
+Hikvision,5656,2,Купол (Dome),Rozetka,True
+Hikvision,2226,4,Куля (Bullet),Rozetka,False
+Hikvision,1858,8,PTZ,Rozetka,True
+Dahua,3146,4,Куля (Bullet),Hotline,False
+Uniview,3234,2,Купол (Dome),Hotline,True
+Uniview,2871,2,PTZ,Prom.ua,True
+Hikvision,1443,8,Fisheye,Rozetka,True
+Dahua,3114,2,Купол (Dome),Epicentr,True
+Dahua,1947,8,Купол (Dome),Epicentr,True
+Hikvision,4563,4,Купол (Dome),Rozetka,True
+Hikvision,4217,8,PTZ,Rozetka,True
+Hikvision,2728,5,Купол (Dome),Rozetka,False
+Imou,1522,8,Куля (Bullet),Hotline,True
+Hikvision,2592,4,Fisheye,Hotline,False
+Dahua,3139,5,Купол (Dome),Hotline,True
+Ajax,8362,4,Купол (Dome),Control.ua,True
+Hikvision,2676,4,Куля (Bullet),Epicentr,True
+Reolink,2417,4,Купол (Dome),Epicentr,True
+Reolink,1765,8,Куля (Bullet),Prom.ua,True
+Hikvision,2896,8,Купол (Dome),Hotline,True
+Dahua,3097,5,Куля (Bullet),Control.ua,True
+Hikvision,2619,4,Купол (Dome),Control.ua,True
+Hikvision,3168,4,Fisheye,Epicentr,True
+Hikvision,2434,5,Куля (Bullet),Hotline,False
+Dahua,5086,2,Fisheye,Prom.ua,False
+Dahua,3233,2,Куля (Bullet),Hotline,True
+Hikvision,3002,4,PTZ,Rozetka,True
+Hikvision,4043,2,Купол (Dome),Hotline,True
+Imou,1739,2,Купол (Dome),Rozetka,True
+Hikvision,3548,2,Купол (Dome),Rozetka,False
+Hikvision,4500,2,PTZ,Prom.ua,True
+Dahua,3927,2,Куля (Bullet),Epicentr,True
+Reolink,1765,8,Куля (Bullet),Hotline,True
+Hikvision,3143,4,Купол (Dome),Rozetka,True
+Ajax,5963,4,PTZ,Hotline,True
+Ajax,2011,5,Купол (Dome),Epicentr,False
+Hikvision,2072,2,Купол (Dome),Epicentr,True
+Ajax,9165,8,Куля (Bullet),Control.ua,True
+Hikvision,5675,5,PTZ,Epicentr,False
+Dahua,2960,2,Куля (Bullet),Prom.ua,True
+Dahua,3753,4,Купол (Dome),Rozetka,True
+Dahua,3498,8,Куля (Bullet),Control.ua,True
+Hikvision,7309,8,Куля (Bullet),Prom.ua,True
+Uniview,3874,4,Куля (Bullet),Hotline,False
+Hikvision,3654,4,Куля (Bullet),Rozetka,True
+Hikvision,2710,2,Купол (Dome),Epicentr,False
+Hikvision,1968,8,Куля (Bullet),Rozetka,True
+Dahua,3395,2,Куля (Bullet),Hotline,False
+Ajax,5025,8,Куля (Bullet),Control.ua,True
+Hikvision,2178,4,Куля (Bullet),Control.ua,True
+Dahua,2579,4,Куля (Bullet),Control.ua,True
+Hikvision,2567,4,Куля (Bullet),Epicentr,False
+Dahua,4819,2,Купол (Dome),Prom.ua,True
+Hikvision,4805,2,Купол (Dome),Prom.ua,True
+Ajax,6484,2,Купол (Dome),Rozetka,False
+Dahua,4620,2,Купол (Dome),Epicentr,True
+Imou,1841,5,Куля (Bullet),Control.ua,False
+Hikvision,2818,4,PTZ,Control.ua,True
+Hikvision,5536,2,Купол (Dome),Hotline,True
+Hikvision,4414,8,Купол (Dome),Hotline,True
+Imou,1239,8,Куля (Bullet),Control.ua,True
+Uniview,2734,8,Куля (Bullet),Control.ua,True
+Hikvision,2801,8,Куля (Bullet),Epicentr,True
+Dahua,1872,2,Куля (Bullet),Prom.ua,True
+Uniview,3705,4,Купол (Dome),Hotline,True
+Dahua,5033,5,Купол (Dome),Prom.ua,True
+Dahua,1857,5,Купол (Dome),Epicentr,True
+Hikvision,4441,2,Купол (Dome),Control.ua,True
+Hikvision,3058,5,PTZ,Prom.ua,True
+Imou,1536,2,Купол (Dome),Control.ua,True
+Imou,1480,2,Fisheye,Control.ua,False
+Dahua,2370,4,Куля (Bullet),Rozetka,False
+Hikvision,3855,4,Куля (Bullet),Prom.ua,True
+Hikvision,2852,4,Куля (Bullet),Prom.ua,True
+Ajax,7027,2,Купол (Dome),Control.ua,False
+Imou,1772,8,PTZ,Epicentr,True
+Imou,1670,2,Куля (Bullet),Rozetka,True
+Ajax,4730,2,Fisheye,Control.ua,True
+Dahua,2646,8,Куля (Bullet),Hotline,True
+Hikvision,4661,8,Fisheye,Hotline,True
+Hikvision,4371,8,Куля (Bullet),Rozetka,True
+Imou,1272,5,Куля (Bullet),Epicentr,False
+Dahua,3295,5,Купол (Dome),Control.ua,False
+Hikvision,4656,4,Куля (Bullet),Prom.ua,True
+Hikvision,1896,2,Куля (Bullet),Rozetka,True
+Ajax,7559,4,Куля (Bullet),Epicentr,False
+Hikvision,3044,4,PTZ,Prom.ua,True
+Hikvision,4450,2,Купол (Dome),Hotline,True
+Dahua,2467,5,Куля (Bullet),Hotline,True
+Ajax,2980,4,Купол (Dome),Prom.ua,False
+Dahua,1637,2,Купол (Dome),Rozetka,True
+Hikvision,3854,2,Куля (Bullet),Hotline,False
+Ajax,7006,5,Куля (Bullet),Control.ua,False
+Hikvision,2769,2,Куля (Bullet),Prom.ua,True
+Hikvision,4527,8,Куля (Bullet),Prom.ua,True
+Ajax,3260,4,Купол (Dome),Hotline,True
+Dahua,3136,4,Куля (Bullet),Rozetka,True
+Uniview,1846,4,Купол (Dome),Control.ua,True
+Dahua,2574,5,Купол (Dome),Rozetka,True
+Dahua,3245,2,Куля (Bullet),Epicentr,True
+Hikvision,2819,5,Купол (Dome),Epicentr,False
+Hikvision,3361,4,Куля (Bullet),Hotline,True
+Hikvision,4947,2,Fisheye,Hotline,True
+Hikvision,3142,8,Купол (Dome),Hotline,True
+Reolink,2626,5,PTZ,Epicentr,True
+Dahua,2115,5,Купол (Dome),Rozetka,True
+Imou,2086,8,Куля (Bullet),Rozetka,True
+Dahua,4583,8,Купол (Dome),Hotline,True
+Uniview,749,5,Fisheye,Control.ua,True
+Dahua,2434,5,Купол (Dome),Rozetka,True
+Dahua,3753,5,PTZ,Epicentr,True
+Dahua,3005,5,PTZ,Prom.ua,True
+Hikvision,4223,4,Куля (Bullet),Prom.ua,False
+Ajax,5322,5,Куля (Bullet),Prom.ua,True
+Hikvision,3898,2,Купол (Dome),Control.ua,True
+Hikvision,3622,8,Куля (Bullet),Hotline,True
+Dahua,4321,8,PTZ,Epicentr,True
+Hikvision,4090,2,PTZ,Control.ua,True
+Imou,1982,5,Куля (Bullet),Epicentr,True
+Reolink,1840,2,Куля (Bullet),Epicentr,True
+Imou,1536,2,Купол (Dome),Hotline,True
+Hikvision,3306,5,Куля (Bullet),Prom.ua,True
+Hikvision,4249,2,PTZ,Hotline,True
+Imou,1572,5,Куля (Bullet),Control.ua,True
+Dahua,3478,5,Купол (Dome),Control.ua,False
+Reolink,3407,4,Куля (Bullet),Control.ua,True
+Reolink,2648,2,Купол (Dome),Hotline,True
+Uniview,2616,2,Купол (Dome),Epicentr,True
+Hikvision,5169,4,Купол (Dome),Epicentr,True
+Dahua,2808,8,Куля (Bullet),Rozetka,True
+Uniview,1126,4,Купол (Dome),Control.ua,True
+Hikvision,2650,2,PTZ,Epicentr,True
+Hikvision,1667,4,Куля (Bullet),Rozetka,True
+Dahua,2862,4,Куля (Bullet),Epicentr,True
+Imou,1809,5,Куля (Bullet),Control.ua,True
+Ajax,9769,2,Купол (Dome),Prom.ua,True
+Dahua,3513,5,Купол (Dome),Control.ua,True
+Hikvision,3550,4,Купол (Dome),Hotline,True
+Dahua,3996,8,Куля (Bullet),Epicentr,True
+Reolink,706,2,Куля (Bullet),Epicentr,True
+Hikvision,4068,4,Купол (Dome),Hotline,True
+Dahua,3940,8,Купол (Dome),Hotline,True
+Uniview,1613,2,Fisheye,Prom.ua,False
+Ajax,8730,8,Куля (Bullet),Epicentr,True
+Ajax,7160,5,Купол (Dome),Epicentr,True
+Ajax,5690,2,Куля (Bullet),Prom.ua,True
+Hikvision,4521,2,Куля (Bullet),Rozetka,True
+Hikvision,6388,5,Купол (Dome),Prom.ua,True
+Uniview,3058,2,Купол (Dome),Control.ua,True
+Uniview,3115,4,Fisheye,Epicentr,False
+Uniview,2500,2,Куля (Bullet),Hotline,True
+Imou,1341,4,Куля (Bullet),Control.ua,True
+Dahua,3997,2,Купол (Dome),Epicentr,False
+Dahua,2378,8,Купол (Dome),Prom.ua,True
+Uniview,2962,8,Куля (Bullet),Control.ua,True
+Dahua,2741,8,Куля (Bullet),Epicentr,True
+Ajax,7434,5,Куля (Bullet),Rozetka,True
+Uniview,3190,2,PTZ,Rozetka,True
+Imou,2360,5,Куля (Bullet),Hotline,False
+Hikvision,3218,2,Куля (Bullet),Epicentr,True
+Hikvision,3492,2,Куля (Bullet),Rozetka,True
+Hikvision,2684,2,Куля (Bullet),Prom.ua,True
+Dahua,2773,4,Куля (Bullet),Epicentr,False
+Hikvision,4230,5,Купол (Dome),Prom.ua,False
+Dahua,3926,5,Куля (Bullet),Prom.ua,False
+Dahua,2314,4,PTZ,Rozetka,True
+Hikvision,4791,2,Куля (Bullet),Epicentr,True
+Dahua,4501,8,Купол (Dome),Control.ua,True
+Hikvision,4271,4,PTZ,Rozetka,True
+Hikvision,5939,4,Купол (Dome),Rozetka,True
+Uniview,2226,2,Купол (Dome),Epicentr,True
+Hikvision,2381,5,Куля (Bullet),Epicentr,True
+Hikvision,1772,5,Куля (Bullet),Prom.ua,True
+Dahua,4636,2,Купол (Dome),Epicentr,True
+Ajax,7776,2,Fisheye,Prom.ua,True
+Hikvision,3736,5,Купол (Dome),Rozetka,True
+Dahua,3468,5,Купол (Dome),Hotline,True
+Hikvision,2516,2,Купол (Dome),Control.ua,True
+Hikvision,6588,8,Купол (Dome),Rozetka,True
+Dahua,3324,2,Куля (Bullet),Epicentr,True
+Dahua,3305,4,Купол (Dome),Control.ua,True
+Dahua,3896,8,Fisheye,Hotline,True
+Ajax,7437,4,Куля (Bullet),Hotline,False
+Reolink,2241,4,Купол (Dome),Prom.ua,True
+Dahua,2441,4,Куля (Bullet),Control.ua,True
+Hikvision,4337,2,Купол (Dome),Prom.ua,True
+Uniview,4537,8,Куля (Bullet),Rozetka,True
+Hikvision,5333,4,Купол (Dome),Control.ua,True
+Dahua,4729,8,Купол (Dome),Rozetka,True
+Hikvision,3217,2,Куля (Bullet),Prom.ua,False
+Hikvision,2671,2,Купол (Dome),Control.ua,True
+Reolink,2020,2,Купол (Dome),Prom.ua,False
+Uniview,2948,5,Fisheye,Control.ua,True
+Ajax,8633,4,Куля (Bullet),Prom.ua,True
+Dahua,1575,8,Куля (Bullet),Hotline,False
+Hikvision,5543,4,Куля (Bullet),Prom.ua,True
+Hikvision,3619,8,Fisheye,Hotline,True
+Hikvision,3313,2,Fisheye,Prom.ua,True
+Dahua,2228,8,Купол (Dome),Control.ua,True
+Ajax,3273,5,PTZ,Control.ua,True
+Ajax,8105,5,Купол (Dome),Control.ua,True
+Hikvision,3883,5,Купол (Dome),Epicentr,True
+Reolink,1287,5,Куля (Bullet),Rozetka,True
+Ajax,3974,4,Купол (Dome),Control.ua,True
+Dahua,2877,2,Куля (Bullet),Hotline,True
+Dahua,4802,2,PTZ,Control.ua,True
+Dahua,2950,8,Купол (Dome),Epicentr,True
+Hikvision,2086,4,Купол (Dome),Hotline,True
+Hikvision,3519,5,Куля (Bullet),Epicentr,True
+Ajax,5968,4,Куля (Bullet),Hotline,False
+Hikvision,725,2,Куля (Bullet),Prom.ua,True
+Hikvision,3738,2,Куля (Bullet),Rozetka,True
+Hikvision,3536,5,Куля (Bullet),Rozetka,True
+Hikvision,4593,4,Fisheye,Epicentr,True
+Uniview,4508,2,Купол (Dome),Rozetka,True
+Ajax,8696,4,Куля (Bullet),Epicentr,True
+Dahua,2941,2,Куля (Bullet),Epicentr,True
+Hikvision,2538,4,Куля (Bullet),Epicentr,True
+Dahua,5670,2,Купол (Dome),Rozetka,False
+Dahua,3256,5,Купол (Dome),Epicentr,False
+Hikvision,3815,2,PTZ,Rozetka,False
+Dahua,3176,4,Купол (Dome),Epicentr,True
+Dahua,3390,2,Fisheye,Control.ua,True
+Dahua,3061,2,PTZ,Epicentr,True
+Dahua,2649,4,Куля (Bullet),Hotline,True
+Hikvision,3176,4,Fisheye,Epicentr,True
+Hikvision,3762,4,Куля (Bullet),Prom.ua,True
+Dahua,2678,2,PTZ,Epicentr,True
+Dahua,2515,5,Куля (Bullet),Hotline,True
+Uniview,2992,8,PTZ,Hotline,True
+Dahua,2955,5,PTZ,Rozetka,True
+Hikvision,5514,2,PTZ,Control.ua,True
+Hikvision,777,4,Купол (Dome),Epicentr,False
+Dahua,4247,2,Куля (Bullet),Rozetka,True
+Hikvision,5220,2,Куля (Bullet),Control.ua,True
+Dahua,1209,8,Куля (Bullet),Epicentr,True
+Imou,1614,2,Куля (Bullet),Prom.ua,True
+Dahua,2843,4,Купол (Dome),Epicentr,True
+Dahua,1848,4,Куля (Bullet),Hotline,True
+Dahua,2453,5,Fisheye,Hotline,True
+Dahua,2133,4,Купол (Dome),Prom.ua,True
+Dahua,4882,2,PTZ,Rozetka,True
+Imou,2305,2,Куля (Bullet),Control.ua,True
+Dahua,4420,4,PTZ,Epicentr,True
+Reolink,2554,2,Fisheye,Hotline,True
+Imou,1190,4,Купол (Dome),Rozetka,True
+Hikvision,3202,2,Купол (Dome),Prom.ua,False
+Hikvision,4357,2,Купол (Dome),Hotline,True
+Hikvision,2406,4,Куля (Bullet),Prom.ua,True
+Hikvision,4612,2,Купол (Dome),Epicentr,True
+Hikvision,3526,4,Куля (Bullet),Control.ua,True
+Ajax,5769,5,Куля (Bullet),Hotline,True
+Hikvision,4610,5,Куля (Bullet),Hotline,True
+Hikvision,4306,2,Куля (Bullet),Epicentr,False
+Uniview,2585,2,Куля (Bullet),Rozetka,True
+Hikvision,5121,2,Куля (Bullet),Control.ua,True
+Uniview,1959,4,Fisheye,Hotline,True
+Hikvision,4502,5,Купол (Dome),Control.ua,True
+Hikvision,4476,2,Fisheye,Hotline,True
+Ajax,5896,8,Куля (Bullet),Control.ua,True
+Dahua,3513,2,Куля (Bullet),Prom.ua,True
+Uniview,1811,4,Купол (Dome),Hotline,True
+Ajax,8301,5,Куля (Bullet),Control.ua,True
+Uniview,2739,8,Куля (Bullet),Rozetka,False
+Hikvision,3204,5,Купол (Dome),Prom.ua,True
+Hikvision,4995,5,Куля (Bullet),Prom.ua,False
+Ajax,5126,2,Купол (Dome),Rozetka,True
+Uniview,1674,5,Купол (Dome),Control.ua,False
+Reolink,1119,2,Куля (Bullet),Epicentr,True
+Dahua,3781,8,Куля (Bullet),Rozetka,False
+Hikvision,2340,4,Купол (Dome),Control.ua,False
+Ajax,9921,5,Купол (Dome),Rozetka,True
+Hikvision,1426,4,Куля (Bullet),Rozetka,False
+Imou,2716,4,Fisheye,Hotline,True
+Uniview,3083,4,Куля (Bullet),Control.ua,True
+Dahua,3107,5,Купол (Dome),Epicentr,True
+Ajax,5437,2,Fisheye,Hotline,True
+Ajax,7278,2,Куля (Bullet),Rozetka,True
