@@ -36,5 +36,4 @@ camera-market-analysis/
 ```
 ## 👤 Автор
 
-**Maksym** — Junior Data Analyst
-Навчається у GoIT | Python, SQL, Pandas
+**Maksym** — Junior Data Analyst. Навчаюсь у GoIT | Python, SQL, Pandas
