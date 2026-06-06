@@ -25,13 +25,15 @@
 - BeautifulSoup — збір даних
 
 ## 📁 Структура проєкту
+```
 camera-market-analysis/
 ├── notebooks/
-│   └── 01_scraping.ipynb   # EDA та аналіз
+│   └── 01_scraping.ipynb    # EDA та аналіз
 ├── data/
-│   ├── cameras_ukraine.csv  # Датасет (400 записів)
-│   ├── eda_overview.png     # Графіки
-│   └── report.txt           # Звіт
+│   └── cameras_ukraine.csv  # Датасет (400 записів)
+├── eda_overview.png         # Графіки
+└── report.txt               # Звіт
+```
 ## 👤 Автор
 
 **Maksym** — Junior Data Analyst
